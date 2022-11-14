@@ -67,8 +67,28 @@ li {
  }
  
  .title {
-    height: 250px;
-    width: 250px;
+    height: 240px;
+    width: 240px;
+}
+
+.title > h3 {
+    margin-bottom: 15px;
+    color: #8d8d8d;
+    font-family: 'Raleway', sans-serif;
+    font-size: 16px;
+}
+
+.title > h4 {
+    margin-bottom: 45px;
+    color: #1a1a1b;
+    font-family: 'Raleway', sans-serif;
+    font-size: 26px;
+}
+
+.title > p {
+    color: #8d8d8d;
+    font-family: 'Raleway', sans-serif;
+    font-size: 16px;
 }
 
 .s-1 {
